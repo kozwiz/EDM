@@ -1,0 +1,1184 @@
+﻿Log file open, 03/18/18 19:25:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: EDM
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-395404441) SRandInit(-395404427).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.171543
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/SoundVisualizations/Binaries/Win64/UE4Editor-SoundVisualizations.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundVisualizations
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.18-23.25.28:753][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.18-23.25.28:753][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.18-23.25.28:810][  0]LogInit: Computer: DESKTOP-6IAEQ09
+[2018.03.18-23.25.28:810][  0]LogInit: User: Michal
+[2018.03.18-23.25.28:810][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.03.18-23.25.28:810][  0]LogInit: High frequency timer resolution =14.318180 MHz
+[2018.03.18-23.25.28:811][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.03.18-23.25.28:811][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.18-23.25.28:811][  0]LogMemory: Process Physical Memory: 272.63 MB used, 272.63 MB peak
+[2018.03.18-23.25.28:811][  0]LogMemory: Process Virtual Memory: 271.25 MB used, 271.25 MB peak
+[2018.03.18-23.25.28:811][  0]LogMemory: Physical Memory: 3626.68 MB used,  4516.46 MB free, 8143.14 MB total
+[2018.03.18-23.25.28:811][  0]LogMemory: Virtual Memory: 675.32 MB used,  4516.46 MB free, 134217728.00 MB total
+[2018.03.18-23.25.29:359][  0]LogInit: Using OS detected language (en-US).
+[2018.03.18-23.25.29:359][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.18-23.25.29:442][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.18-23.25.30:101][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.18-23.25.34:454][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.18-23.25.34:483][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R9 200 Series' (Feature Level 11_0)
+[2018.03.18-23.25.34:483][  0]LogD3D11RHI:       2029/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.03.18-23.25.34:486][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.18-23.25.34:486][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.18-23.25.34:486][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.18-23.25.34:496][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.18-23.25.34:497][  0]LogD3D11RHI:     GPU DeviceId: 0x6811 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.18-23.25.34:497][  0]LogWindows: EnumDisplayDevices:
+[2018.03.18-23.25.34:497][  0]LogWindows:    0. 'AMD Radeon (TM) R9 200 Series' (P:1 D:1)
+[2018.03.18-23.25.34:498][  0]LogWindows:    1. 'AMD Radeon (TM) R9 200 Series' (P:0 D:1)
+[2018.03.18-23.25.34:498][  0]LogWindows:    2. 'AMD Radeon (TM) R9 200 Series' (P:0 D:0)
+[2018.03.18-23.25.34:498][  0]LogWindows:    3. 'AMD Radeon (TM) R9 200 Series' (P:0 D:0)
+[2018.03.18-23.25.34:499][  0]LogWindows:    4. 'AMD Radeon (TM) R9 200 Series' (P:0 D:0)
+[2018.03.18-23.25.34:499][  0]LogWindows:    5. 'AMD Radeon (TM) R9 200 Series' (P:0 D:0)
+[2018.03.18-23.25.34:499][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.18-23.25.34:499][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R9 200 Series
+[2018.03.18-23.25.34:499][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.18-23.25.34:499][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.18-23.25.34:499][  0]LogRHI: Texture pool is 1420 MB (70% of 2029 MB)
+[2018.03.18-23.25.34:589][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.18-23.25.34:625][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.03.18-23.25.34:633][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (D:/Google Drive/Unreal/EDM/Intermediate/Shaders/WorkingDirectory/5600/).
+[2018.03.18-23.25.34:633][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Michal/AppData/Local/Temp/UnrealShaderWorkingDir/0AEF7FDF466C5BE73DFE08821BE01290/'.
+[2018.03.18-23.25.34:633][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.18-23.25.39:768][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.18-23.25.39:897][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.18-23.25.40:032][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.18-23.25.40:178][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.18-23.25.40:314][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.18-23.25.40:465][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.18-23.25.40:597][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.18-23.25.40:726][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.18-23.25.40:837][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.18-23.25.40:962][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.18-23.25.41:103][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.18-23.25.41:296][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.18-23.25.41:414][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.18-23.25.41:532][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.18-23.25.41:768][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.18-23.25.41:768][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.18-23.25.41:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.18-23.25.41:985][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.18-23.25.42:242][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.18-23.25.42:323][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.18-23.25.42:463][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.18-23.25.42:630][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.18-23.25.42:813][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.18-23.25.42:942][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.18-23.25.42:942][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.18-23.25.44:427][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.18-23.25.44:937][  0]LogDerivedDataCache: Loaded boot cache 0.51s 78MB C:/Users/Michal/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.18-23.25.44:937][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Michal/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.18-23.25.44:937][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Google Drive/Unreal/EDM/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.18-23.25.44:937][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.18-23.25.44:937][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Google Drive/Unreal/EDM/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.18-23.25.44:937][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.18-23.25.44:975][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.18-23.25.44:988][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Michal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.18-23.25.45:018][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.18-23.25.45:023][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.18-23.25.45:050][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.18-23.25.45:051][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.18-23.25.46:557][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.18-23.25.47:551][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.18-23.25.47:644][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.18-23.25.47:648][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.18-23.25.47:648][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.18-23.25.47:649][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.18-23.25.47:649][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.18-23.25.47:762][  0]LogNetVersion: EDM , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2285733795)
+[2018.03.18-23.25.48:422][  0]LogAssetRegistry: FAssetRegistry took 0.0339 seconds to start up
+[2018.03.18-23.25.50:782][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.320051 seconds
+[2018.03.18-23.25.50:800][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.18-23.25.50:800][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.03.18-23.25.50:800][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.18-23.25.51:101][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.18-23.26.18:257][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.18-23.26.18:375][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.18-23.26.22:113][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.18-23.26.24:711][  0]SourceControl: Source control is disabled
+[2018.03.18-23.26.24:711][  0]SourceControl: Source control is disabled
+[2018.03.18-23.26.24:950][  0]SourceControl: Source control is disabled
+[2018.03.18-23.26.25:165][  0]SourceControl: Source control is disabled
+[2018.03.18-23.26.28:028][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.18-23.26.29:120][  0]LogOcInput: OculusInput pre-init called
+[2018.03.18-23.26.30:123][  0]LogEngine: Initializing Engine...
+[2018.03.18-23.26.30:129][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.18-23.26.30:693][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.18-23.26.30:694][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.18-23.26.31:075][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.18-23.26.31:107][  0]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.18-23.26.31:135][  0]LogInit: FAudioDevice initialized.
+[2018.03.18-23.26.31:280][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/Michal/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.18-23.26.31:324][  0]LogInit: Texture streaming: Enabled
+[2018.03.18-23.26.31:583][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.18-23.26.32:101][  0]LogInit: Transaction tracking system initialized
+[2018.03.18-23.26.33:617][  0]BlueprintLog: New page: Editor Load
+[2018.03.18-23.26.36:505][  0]LocalizationService: Localization service is disabled
+[2018.03.18-23.26.38:826][  0]LogConsoleResponse: Display: 
+[2018.03.18-23.26.39:792][  0]LogFileCache: Scanning file cache for directory 'D:/Google Drive/Unreal/EDM/Content/' took 0.02s
+[2018.03.18-23.26.39:792][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.18-23.26.39:792][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.18-23.26.39:793][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.18-23.26.45:782][  0]SourceControl: Source control is disabled
+[2018.03.18-23.26.45:784][  0]Cmd: MAP LOAD FILE="D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.18-23.26.45:785][  0]LightingResults: New page: Lighting Build
+[2018.03.18-23.26.45:965][  0]MapCheck: New page: Map Check
+[2018.03.18-23.26.45:965][  0]LightingResults: New page: Lighting Build
+[2018.03.18-23.26.49:471][  0]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.18-23.26.49:472][  0]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [0087.72] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 7 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.18-23.26.56:207][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.18-23.26.57:008][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.18-23.26.57:075][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.18-23.26.57:275][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 199.671ms to complete.
+[2018.03.18-23.26.57:275][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 11.493
+[2018.03.18-23.26.57:660][  0]LogCollectionManager: Loaded 0 collections in 0.003543 seconds
+[2018.03.18-23.26.57:985][  0]LogFileCache: Scanning file cache for directory 'D:/Google Drive/Unreal/EDM/Saved/Collections/' took 0.01s
+[2018.03.18-23.26.57:985][  0]LogFileCache: Scanning file cache for directory 'D:/Google Drive/Unreal/EDM/Content/Developers/Michal/Collections/' took 0.02s
+[2018.03.18-23.26.57:985][  0]LogFileCache: Scanning file cache for directory 'D:/Google Drive/Unreal/EDM/Content/Collections/' took 0.02s
+[2018.03.18-23.26.57:985][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.03.18-23.26.58:006][  0]LogContentBrowser: Native class hierarchy populated in 0.0196 seconds. Added 2364 classes and 522 folders.
+[2018.03.18-23.26.58:307][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.18-23.26.59:259][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.18-23.26.59:377][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.03.18-23.26.59:483][  0]LogSlate: Took 0.028095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.18-23.26.59:494][  0]LogSlate: Took 0.008283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.18-23.26.59:508][  0]LogSlate: Took 0.007311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.18-23.26.59:774][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.03.18-23.27.00:259][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.18-23.27.00:259][  0]LogLoad: (Engine Initialization) Total time: 98.51 seconds
+[2018.03.18-23.27.00:259][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.18-23.27.00:260][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.18-23.27.00:304][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.18-23.27.00:358][  0]LogSlate: Took 0.010505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.18-23.27.00:627][  2]LogAssetRegistry: Asset discovery search completed in 72.2278 seconds
+[2018.03.18-23.27.00:630][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.03.18-23.27.00:630][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000147 seconds (updated 0 objects)
+[2018.03.18-23.27.01:386][ 22]LogSlate: Took 0.000461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.18-23.27.53:165][908]SourceControl: On branch master
+[2018.03.18-23.27.53:165][908]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.03.18-23.27.53:165][908]SourceControl: Changes not staged for commit:
+[2018.03.18-23.27.53:165][908]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.03.18-23.27.53:165][908]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.03.18-23.27.53:165][908]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.03.18-23.27.53:165][908]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2018.03.18-23.27.53:165][908]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.03.18-23.27.53:165][908]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2018.03.18-23.27.53:165][908]SourceControl: 	modified:   Saved/Logs/EDM.log
+[2018.03.18-23.27.53:165][908]SourceControl: Untracked files:
+[2018.03.18-23.27.53:165][908]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.03.18-23.27.53:165][908]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-3899FDF84CB887BBD03FD1A031E6D45B/
+[2018.03.18-23.27.53:165][908]SourceControl: 	Saved/Logs/EDM-backup-2018.03.18-19.25.24.log
+[2018.03.18-23.27.53:165][908]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.03.18-23.28.36:771][747]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.18-23.29.10:217][848]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test22)
+[2018.03.18-23.29.43:304][963]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test23)
+[2018.03.18-23.30.09:435][732]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test25)
+[2018.03.18-23.30.32:641][546]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test24)
+[2018.03.18-23.31.00:474][354]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test27)
+[2018.03.18-23.31.39:368][617]LogEditorViewport: Clicking on Actor (LMB): Sun_Stage_C (Sun_Stage)
+[2018.03.18-23.31.40:441][647]LogEditorViewport: Clicking on Actor (LMB): Sun_Stage_C (Sun_Stage)
+[2018.03.18-23.31.42:827][716]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test26)
+[2018.03.18-23.32.37:649][430]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test29)
+[2018.03.18-23.33.37:167][608]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test28)
+[2018.03.18-23.33.51:055][ 79]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test31)
+[2018.03.18-23.34.10:520][767]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test30)
+[2018.03.18-23.34.11:272][788]LogSlate: Took 0.009711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.18-23.35.50:352][288]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test22)
+[2018.03.18-23.37.05:411][462]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test23)
+[2018.03.18-23.37.18:368][923]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test25)
+[2018.03.18-23.37.28:221][281]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test24)
+[2018.03.18-23.38.06:596][733]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.18-23.38.06:597][733]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [0764.85] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 7 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.18-23.38.07:381][733]LogSavePackage: Save=797.09ms
+[2018.03.18-23.38.07:382][733]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMap_Auto1AD6FB45A41C090273132BB8EA8063AA9.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.03.18-23.38.07:388][733]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.03.18-23.38.07:407][733]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.878
+[2018.03.18-23.38.07:407][733]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.878
+[2018.03.18-23.38.07:416][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Light_Test1] ([1] browsable assets)...
+[2018.03.18-23.38.07:417][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/Light_Test1]
+[2018.03.18-23.38.07:417][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Test1" FILE="D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.03.18-23.38.07:540][733]LogSavePackage: Save=98.22ms
+[2018.03.18-23.38.07:540][733]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Light_Test1_Auto17447F6F84AEFAAE86DE2F292C6B245F8.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto1.uasset'
+[2018.03.18-23.38.07:545][733]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto1.uasset
+[2018.03.18-23.38.07:545][733]LogFileHelpers: Auto-saving content packages took 0.130
+[2018.03.18-23.38.19:612][168]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test27)
+[2018.03.18-23.38.31:316][688]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test26)
+[2018.03.18-23.38.35:570][851]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test27)
+[2018.03.18-23.39.11:927][277]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test26)
+[2018.03.18-23.39.21:504][639]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test29)
+[2018.03.18-23.39.38:388][354]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test28)
+[2018.03.18-23.41.54:082][961]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test31)
+[2018.03.18-23.42.07:426][527]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test30)
+[2018.03.18-23.48.08:152][863]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.18-23.48.08:153][863]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [1366.41] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 8 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.18-23.48.08:922][863]LogSavePackage: Save=783.20ms
+[2018.03.18-23.48.08:922][863]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMap_Auto2BC26AF044A797AA2333F019A5B16293A.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.03.18-23.48.08:927][863]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.03.18-23.48.08:936][863]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.858
+[2018.03.18-23.48.08:936][863]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.858
+[2018.03.18-23.48.08:939][863]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Light_Test1] ([1] browsable assets)...
+[2018.03.18-23.48.08:940][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Light_Test1]
+[2018.03.18-23.48.08:940][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Test1" FILE="D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.03.18-23.48.09:059][863]LogSavePackage: Save=88.27ms
+[2018.03.18-23.48.09:060][863]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Light_Test1_Auto2F3696BBC48EC6A15EEDECBBE3FECCF88.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto2.uasset'
+[2018.03.18-23.48.09:063][863]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto2.uasset
+[2018.03.18-23.48.09:063][863]LogFileHelpers: Auto-saving content packages took 0.125
+[2018.03.19-01.45.57:332][904]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.03.19-01.45.59:330][972]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.03.19-01.46.00:000][993]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.03.19-01.46.05:143][186]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test13)
+[2018.03.19-01.46.24:851][128]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.03.19-01.46.26:101][185]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test22)
+[2018.03.19-01.47.08:481][356]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.03.19-01.47.10:091][422]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test23)
+[2018.03.19-01.47.18:713][792]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test25)
+[2018.03.19-01.47.31:155][310]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test24)
+[2018.03.19-01.47.42:283][772]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test27)
+[2018.03.19-01.47.50:601][ 94]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test26)
+[2018.03.19-01.47.57:268][362]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test29)
+[2018.03.19-01.48.07:984][797]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test28)
+[2018.03.19-01.48.19:126][259]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test31)
+[2018.03.19-01.48.27:490][620]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test30)
+[2018.03.19-01.50.19:609][411]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test22)
+[2018.03.19-01.50.45:887][415]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test23)
+[2018.03.19-01.50.54:524][741]Cmd: TRANSACTION UNDO
+[2018.03.19-01.50.54:524][741]LogEditorTransaction: Undo Rotate Actors
+[2018.03.19-01.51.05:138][126]Cmd: TRANSACTION UNDO
+[2018.03.19-01.51.05:138][126]LogEditorTransaction: Undo Rotate Actors
+[2018.03.19-01.51.05:752][145]Cmd: TRANSACTION UNDO
+[2018.03.19-01.51.05:753][145]LogEditorTransaction: Undo Rotate Actors
+[2018.03.19-01.51.13:111][420]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.03.19-01.51.14:076][454]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.03.19-01.51.16:513][543]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test25)
+[2018.03.19-01.51.26:472][911]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.03.19-01.51.28:274][976]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test23)
+[2018.03.19-01.51.41:011][456]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test27)
+[2018.03.19-01.51.52:785][929]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test24)
+[2018.03.19-01.52.05:358][438]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test29)
+[2018.03.19-01.52.17:384][896]LogEditorViewport: Clicking on Actor (LMB): Square_Panels_C (Square_Panels)
+[2018.03.19-01.52.18:765][946]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test26)
+[2018.03.19-01.52.42:759][873]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test29)
+[2018.03.19-01.52.44:607][953]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test26)
+[2018.03.19-01.52.45:417][986]LogEditorViewport: Clicking on Actor (LMB): Diamond_Panels_C (Diamond_Panels)
+[2018.03.19-01.52.46:513][ 28]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test31)
+[2018.03.19-01.52.54:199][360]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test28)
+[2018.03.19-01.53.04:824][815]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test30)
+[2018.03.19-01.53.20:906][553]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test22)
+[2018.03.19-01.54.06:893][310]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.19-01.54.06:894][310]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [8930.18] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 7 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.19-01.54.07:676][310]LogSavePackage: Save=795.43ms
+[2018.03.19-01.54.07:676][310]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMap9A52EF39450E823063090C89CF61709C.tmp' to 'D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.03.19-01.54.07:691][310]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.03.19-01.54.07:937][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2018.03.19-01.54.08:168][310]LogSavePackage: Save=194.97ms
+[2018.03.19-01.54.08:168][310]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMap_BuiltDataC6DA2D7D48C1972FC0974CBB60789190.tmp' to 'D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.03.19-01.54.08:173][310]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.03.19-01.54.26:724][ 28]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test13)
+[2018.03.19-01.54.44:764][673]Cmd: TRANSACTION UNDO
+[2018.03.19-01.54.44:764][673]LogEditorTransaction: Undo Rotate Actors
+[2018.03.19-01.55.26:433][204]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test12)
+[2018.03.19-01.55.31:277][382]Cmd: TRANSACTION UNDO
+[2018.03.19-01.55.31:277][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.19-01.55.31:890][402]Cmd: TRANSACTION UNDO
+[2018.03.19-01.55.31:890][402]LogEditorTransaction: Undo Add Keys at Current Time
+[2018.03.19-01.55.34:903][515]Cmd: TRANSACTION UNDO
+[2018.03.19-01.55.34:903][515]LogEditorTransaction: Undo Rotate Actors
+[2018.03.19-01.55.35:644][539]Cmd: TRANSACTION UNDO
+[2018.03.19-01.55.35:644][539]LogEditorTransaction: Undo Rotate Actors
+[2018.03.19-01.55.40:044][702]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.03.19-01.55.41:406][748]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test13)
+[2018.03.19-01.55.50:997][136]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test12)
+[2018.03.19-01.56.01:343][585]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test14)
+[2018.03.19-01.56.15:227][198]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test15)
+[2018.03.19-01.56.24:320][619]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test16)
+[2018.03.19-01.56.36:147][153]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test17)
+[2018.03.19-01.56.42:314][435]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test18)
+[2018.03.19-01.56.55:243][952]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test17)
+[2018.03.19-01.56.56:860][ 26]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test19)
+[2018.03.19-01.57.06:284][462]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test20)
+[2018.03.19-01.57.19:513][ 96]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test21)
+[2018.03.19-01.57.49:421][297]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test13)
+[2018.03.19-01.58.06:715][952]Cmd: TRANSACTION UNDO
+[2018.03.19-01.58.06:715][952]LogEditorTransaction: Undo Rotate Actors
+[2018.03.19-01.58.23:134][569]Cmd: TRANSACTION UNDO
+[2018.03.19-01.58.23:134][569]LogEditorTransaction: Undo Rotate Actors
+[2018.03.19-01.58.37:859][145]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.03.19-01.58.38:522][167]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.03.19-01.58.39:700][210]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.03.19-01.58.42:482][308]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test22)
+[2018.03.19-01.58.59:899][970]Cmd: TRANSACTION UNDO
+[2018.03.19-01.58.59:900][970]LogEditorTransaction: Undo Add Keys at Current Time
+[2018.03.19-01.59.10:148][357]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test12)
+[2018.03.19-01.59.25:116][935]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test23)
+[2018.03.19-01.59.38:961][446]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test14)
+[2018.03.19-01.59.45:330][676]Cmd: TRANSACTION UNDO
+[2018.03.19-01.59.45:330][676]LogEditorTransaction: Undo Rotate Actors
+[2018.03.19-01.59.54:984][ 22]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test15)
+[2018.03.19-02.00.04:656][370]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test25)
+[2018.03.19-02.00.16:561][801]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test24)
+[2018.03.19-02.00.26:630][168]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test27)
+[2018.03.19-02.00.35:834][501]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test26)
+[2018.03.19-02.00.47:259][918]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test16)
+[2018.03.19-02.00.55:435][212]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test17)
+[2018.03.19-02.01.06:260][599]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test29)
+[2018.03.19-02.01.18:222][ 27]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test28)
+[2018.03.19-02.01.31:343][497]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test18)
+[2018.03.19-02.01.49:276][135]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test19)
+[2018.03.19-02.01.57:376][421]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test20)
+[2018.03.19-02.02.03:715][642]Cmd: TRANSACTION UNDO
+[2018.03.19-02.02.03:715][642]LogEditorTransaction: Undo Rotate Actors
+[2018.03.19-02.02.10:833][888]LogEditorViewport: Clicking on Actor (LMB): Square_Panels_C (Square_Panels)
+[2018.03.19-02.02.11:984][924]LogEditorViewport: Clicking on Actor (LMB): Long_Panels_C (Long_Panels)
+[2018.03.19-02.02.12:672][946]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test21)
+[2018.03.19-02.02.21:548][258]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test31)
+[2018.03.19-02.02.33:132][661]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test30)
+[2018.03.19-02.03.41:123][185]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test31)
+[2018.03.19-02.03.52:225][548]LogEditorViewport: Clicking on Actor (LMB): Diamond_Panels_C (Diamond_Panels)
+[2018.03.19-02.03.53:136][576]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.03.19-02.03.54:205][608]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test29)
+[2018.03.19-02.04.02:777][888]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test27)
+[2018.03.19-02.04.13:918][253]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test25)
+[2018.03.19-02.04.27:365][691]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test22)
+[2018.03.19-02.04.38:640][ 54]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test24)
+[2018.03.19-02.04.46:540][303]Cmd: TRANSACTION UNDO
+[2018.03.19-02.04.46:540][303]LogEditorTransaction: Undo Rotate Actors
+[2018.03.19-02.04.51:241][469]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.03.19-02.04.52:348][502]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.03.19-02.04.52:808][515]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test23)
+[2018.03.19-02.05.02:594][838]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test24)
+[2018.03.19-02.05.08:886][ 46]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test26)
+[2018.03.19-02.05.16:144][288]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test28)
+[2018.03.19-02.05.31:672][823]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test30)
+[2018.03.19-02.05.48:804][418]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test20)
+[2018.03.19-02.05.56:250][668]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test18)
+[2018.03.19-02.06.12:088][210]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test16)
+[2018.03.19-02.06.20:888][510]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test14)
+[2018.03.19-02.06.29:528][795]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test13)
+[2018.03.19-02.06.39:061][108]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test12)
+[2018.03.19-02.06.53:733][596]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test15)
+[2018.03.19-02.07.01:188][841]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test17)
+[2018.03.19-02.07.10:095][140]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test19)
+[2018.03.19-02.07.25:891][677]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test21)
+[2018.03.19-02.08.54:030][819]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.19-02.08.54:031][819]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [9817.31] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 6 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.19-02.08.54:804][819]LogSavePackage: Save=783.17ms
+[2018.03.19-02.08.54:804][819]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMap_Auto32ED374B54FE91BC999182C82AD5120D2.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2018.03.19-02.08.54:809][819]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2018.03.19-02.08.54:816][819]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.864
+[2018.03.19-02.08.54:816][819]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.864
+[2018.03.19-02.08.54:820][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Light_Test1] ([1] browsable assets)...
+[2018.03.19-02.08.54:820][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/Light_Test1]
+[2018.03.19-02.08.54:820][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Test1" FILE="D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.03.19-02.08.54:941][819]LogSavePackage: Save=90.91ms
+[2018.03.19-02.08.54:941][819]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Light_Test1_Auto392701043435D270FBD3EBF9F711C8D5B.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto3.uasset'
+[2018.03.19-02.08.54:945][819]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto3.uasset
+[2018.03.19-02.08.54:945][819]LogFileHelpers: Auto-saving content packages took 0.127
+[2018.03.19-02.09.56:716][928]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test)
+[2018.03.19-02.11.21:661][827]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test2)
+[2018.03.19-02.11.22:546][852]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test)
+[2018.03.19-02.11.45:429][610]Cmd: TRANSACTION UNDO
+[2018.03.19-02.11.45:429][610]LogEditorTransaction: Undo Rotate Actors
+[2018.03.19-02.12.28:174][ 42]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test2)
+[2018.03.19-02.12.29:630][ 87]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test)
+[2018.03.19-02.12.31:970][161]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test2)
+[2018.03.19-02.13.01:696][151]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test3)
+[2018.03.19-02.13.29:842][101]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test4)
+[2018.03.19-02.14.42:739][592]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test5)
+[2018.03.19-02.15.23:705][ 41]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test6)
+[2018.03.19-02.15.45:983][869]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test7)
+[2018.03.19-02.15.48:759][963]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test10)
+[2018.03.19-02.15.49:976][  3]Cmd: DELETE
+[2018.03.19-02.15.49:977][  3]Cmd: ACTOR DELETE
+[2018.03.19-02.15.50:000][  3]LogEditorActor: Deleted Actor: Light_Test_C
+[2018.03.19-02.15.50:024][  3]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.03.19-02.15.50:799][ 30]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test11)
+[2018.03.19-02.15.51:164][ 41]Cmd: DELETE
+[2018.03.19-02.15.51:164][ 41]Cmd: ACTOR DELETE
+[2018.03.19-02.15.51:173][ 41]LogEditorActor: Deleted Actor: Light_Test_C
+[2018.03.19-02.15.51:198][ 41]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.03.19-02.15.52:044][ 71]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test7)
+[2018.03.19-02.16.26:176][284]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test8)
+[2018.03.19-02.17.28:168][639]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test22)
+[2018.03.19-02.19.03:477][385]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.19-02.19.03:479][385]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [0426.76] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 11 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.19-02.19.04:682][385]LogSavePackage: Save=1223.10ms
+[2018.03.19-02.19.04:682][385]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMap_Auto4700F13E54969F07FA1FDB2B5D8E44072.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2018.03.19-02.19.04:687][385]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2018.03.19-02.19.04:707][385]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.326
+[2018.03.19-02.19.04:707][385]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.326
+[2018.03.19-02.19.04:711][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Light_Test1] ([1] browsable assets)...
+[2018.03.19-02.19.04:711][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Light_Test1]
+[2018.03.19-02.19.04:711][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Test1" FILE="D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.03.19-02.19.04:901][385]LogSavePackage: Save=134.98ms
+[2018.03.19-02.19.04:901][385]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Light_Test1_Auto4A1D686DB4C3135910A6B269006CF6467.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto4.uasset'
+[2018.03.19-02.19.04:907][385]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto4.uasset
+[2018.03.19-02.19.04:907][385]LogFileHelpers: Auto-saving content packages took 0.198
+[2018.03.19-02.30.37:513][767]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.024
+[2018.03.19-02.30.37:516][767]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Light_Test1] ([1] browsable assets)...
+[2018.03.19-02.30.37:516][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/Light_Test1]
+[2018.03.19-02.30.37:516][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Test1" FILE="D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.03.19-02.30.37:662][767]LogSavePackage: Save=108.25ms
+[2018.03.19-02.30.37:662][767]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Light_Test1_Auto568E85CF0438805F3B155E9BD72643179.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto5.uasset'
+[2018.03.19-02.30.37:666][767]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto5.uasset
+[2018.03.19-02.30.37:666][767]LogFileHelpers: Auto-saving content packages took 0.152
+[2018.03.19-02.31.33:105][762]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.19-02.31.33:106][762]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [1176.39] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 8 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.19-02.31.33:874][762]LogSavePackage: Save=782.83ms
+[2018.03.19-02.31.33:874][762]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMapF85BABEB42852794461F4D9323743FC8.tmp' to 'D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.03.19-02.31.33:889][762]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.03.19-02.31.34:139][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2018.03.19-02.31.34:345][762]LogSavePackage: Save=167.50ms
+[2018.03.19-02.31.34:345][762]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMap_BuiltDataC581011C4B916B03C5F2C58D85DAD9C8.tmp' to 'D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.03.19-02.31.34:349][762]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.03.19-02.31.36:579][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Test1" FILE="D:/Google Drive/Unreal/EDM/Content/Light_Test1.uasset" SILENT=true
+[2018.03.19-02.31.36:695][848]LogSavePackage: Save=94.58ms
+[2018.03.19-02.31.36:695][848]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Light_Test13BC9B1124364DED9902CE1928CB7CA55.tmp' to 'D:/Google Drive/Unreal/EDM/Content/Light_Test1.uasset'
+[2018.03.19-02.31.36:710][848]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Content/Light_Test1.uasset
+[2018.03.19-02.31.42:547][ 66]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.03.19-02.32.00:780][ 66]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.19-02.32.01:069][ 66]SourceControl: [master 6719821] Edited the lights up to 200 frames
+[2018.03.19-02.32.01:069][ 66]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2018.03.19-02.32.01:088][ 66]SourceControl: Commited [master 6719821] Edited the lights up to 200 frames.
+[2018.03.19-02.32.17:465][611]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test)
+[2018.03.19-02.32.37:787][330]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.03.19-02.32.38:638][356]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.03.19-02.32.39:895][398]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test2)
+[2018.03.19-02.32.49:813][747]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test3)
+[2018.03.19-02.33.01:103][144]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test4)
+[2018.03.19-02.33.08:447][403]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test5)
+[2018.03.19-02.33.14:664][612]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test6)
+[2018.03.19-02.33.22:922][894]Cmd: TRANSACTION UNDO
+[2018.03.19-02.33.22:922][894]LogEditorTransaction: Undo Rotate Actors
+[2018.03.19-02.33.43:391][628]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test7)
+[2018.03.19-02.33.54:339][  5]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test8)
+[2018.03.19-02.34.08:126][480]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test13)
+[2018.03.19-02.34.20:873][930]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test12)
+[2018.03.19-02.34.30:123][259]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test14)
+[2018.03.19-02.34.39:263][576]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test15)
+[2018.03.19-02.34.53:180][ 60]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test16)
+[2018.03.19-02.35.01:514][348]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test17)
+[2018.03.19-02.35.06:934][533]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test18)
+[2018.03.19-02.35.42:280][919]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test20)
+[2018.03.19-02.35.48:760][140]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test19)
+[2018.03.19-02.35.57:170][434]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test21)
+[2018.03.19-02.36.05:159][717]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test22)
+[2018.03.19-02.36.13:160][999]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test23)
+[2018.03.19-02.36.20:675][268]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test25)
+[2018.03.19-02.36.26:724][483]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test24)
+[2018.03.19-02.36.32:752][697]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test27)
+[2018.03.19-02.36.41:953][ 29]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test26)
+[2018.03.19-02.36.49:037][284]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test29)
+[2018.03.19-02.36.54:364][474]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test28)
+[2018.03.19-02.37.01:526][728]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test31)
+[2018.03.19-02.37.08:682][986]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test30)
+[2018.03.19-02.37.17:753][315]Cmd: TRANSACTION UNDO
+[2018.03.19-02.37.17:753][315]LogEditorTransaction: Undo Rotate Actors
+[2018.03.19-02.38.00:982][387]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test)
+[2018.03.19-02.38.11:076][738]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test2)
+[2018.03.19-02.38.18:698][997]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test3)
+[2018.03.19-02.38.27:734][307]LogEditorViewport: Clicking on Actor (LMB): Long_Panels_C (Long_Panels)
+[2018.03.19-02.38.28:814][342]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test4)
+[2018.03.19-02.38.35:174][561]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test5)
+[2018.03.19-02.38.43:911][866]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test6)
+[2018.03.19-02.38.49:316][ 50]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test7)
+[2018.03.19-02.38.55:729][272]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test8)
+[2018.03.19-02.39.07:121][668]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test13)
+[2018.03.19-02.39.16:426][993]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test14)
+[2018.03.19-02.39.24:074][255]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test12)
+[2018.03.19-02.39.33:957][595]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test16)
+[2018.03.19-02.39.40:826][834]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test15)
+[2018.03.19-02.39.48:824][113]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test18)
+[2018.03.19-02.39.54:483][305]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test17)
+[2018.03.19-02.40.00:654][517]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test20)
+[2018.03.19-02.40.06:944][734]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test19)
+[2018.03.19-02.40.16:559][ 70]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test21)
+[2018.03.19-02.40.46:577][145]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test22)
+[2018.03.19-02.40.58:040][524]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test23)
+[2018.03.19-02.41.05:306][783]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test25)
+[2018.03.19-02.41.34:767][202]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test24)
+[2018.03.19-02.41.42:089][448]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.19-02.41.42:090][448]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [1785.37] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 6 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.19-02.41.42:848][448]LogSavePackage: Save=771.93ms
+[2018.03.19-02.41.42:848][448]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMap_Auto6CFFAB7E7426239BCF770F087BC012F2D.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2018.03.19-02.41.42:853][448]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap
+[2018.03.19-02.41.42:861][448]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.849
+[2018.03.19-02.41.42:861][448]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.849
+[2018.03.19-02.41.42:865][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Light_Test1] ([1] browsable assets)...
+[2018.03.19-02.41.42:865][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Light_Test1]
+[2018.03.19-02.41.42:865][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Test1" FILE="D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.03.19-02.41.42:988][448]LogSavePackage: Save=95.28ms
+[2018.03.19-02.41.42:988][448]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Light_Test1_Auto6F1261F664FFC043B3780DB8E7ADA82D4.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto6.uasset'
+[2018.03.19-02.41.42:993][448]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto6.uasset
+[2018.03.19-02.41.42:993][448]LogFileHelpers: Auto-saving content packages took 0.130
+[2018.03.19-02.41.53:037][803]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test27)
+[2018.03.19-02.42.00:724][ 95]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test26)
+[2018.03.19-02.42.08:096][382]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test29)
+[2018.03.19-02.42.14:738][639]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test28)
+[2018.03.19-02.42.26:811][125]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test31)
+[2018.03.19-02.42.34:408][430]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test30)
+[2018.03.19-02.43.01:753][534]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test)
+[2018.03.19-02.43.13:274][964]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test2)
+[2018.03.19-02.43.20:823][235]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test3)
+[2018.03.19-02.43.28:970][527]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test4)
+[2018.03.19-02.43.36:323][787]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test5)
+[2018.03.19-02.44.32:710][308]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test6)
+[2018.03.19-02.44.42:813][672]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test7)
+[2018.03.19-02.44.56:160][155]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test8)
+[2018.03.19-02.47.47:737][147]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test22)
+[2018.03.19-02.47.58:213][516]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test23)
+[2018.03.19-02.48.04:966][751]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test25)
+[2018.03.19-02.48.12:376][ 11]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test24)
+[2018.03.19-02.48.27:152][403]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test27)
+[2018.03.19-02.48.48:868][155]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test26)
+[2018.03.19-02.48.55:261][379]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test29)
+[2018.03.19-02.49.03:317][664]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test31)
+[2018.03.19-02.49.51:838][532]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test30)
+[2018.03.19-02.50.07:047][131]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test13)
+[2018.03.19-02.50.15:715][471]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{6ea151bb-02a8-49db-aba4-d15154daa4fe} was removed. Shutting down audio device.
+[2018.03.19-02.50.15:751][471]LogInit: XAudio2 using '1 - ASUS VH242H (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-02.50.19:866][600]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.19-02.51.43:366][818]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.19-02.51.43:367][818]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [2386.65] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 8 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.19-02.51.44:336][818]LogSavePackage: Save=984.41ms
+[2018.03.19-02.51.44:336][818]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMap_Auto706B629BE470D65D51B79299FB5B030C3.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2018.03.19-02.51.44:343][818]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap
+[2018.03.19-02.51.44:351][818]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.069
+[2018.03.19-02.51.44:351][818]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.069
+[2018.03.19-02.51.44:354][818]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Light_Test1] ([1] browsable assets)...
+[2018.03.19-02.51.44:355][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/Light_Test1]
+[2018.03.19-02.51.44:355][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Test1" FILE="D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2018.03.19-02.51.44:488][818]LogSavePackage: Save=106.23ms
+[2018.03.19-02.51.44:488][818]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Light_Test1_Auto7E67AD2F2402F0B9109DBF5B9DB17D791.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto7.uasset'
+[2018.03.19-02.51.44:492][818]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto7.uasset
+[2018.03.19-02.51.44:492][818]LogFileHelpers: Auto-saving content packages took 0.139
+[2018.03.19-02.52.12:739][158]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test12)
+[2018.03.19-02.52.18:120][380]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test14)
+[2018.03.19-02.54.37:305][192]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test16)
+[2018.03.19-02.54.44:331][478]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test15)
+[2018.03.19-02.55.49:092][256]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.03.19-02.55.50:032][290]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test18)
+[2018.03.19-02.55.56:941][559]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test17)
+[2018.03.19-02.56.09:032][ 44]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test19)
+[2018.03.19-02.56.17:948][414]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test20)
+[2018.03.19-02.56.27:218][797]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test21)
+[2018.03.19-02.58.02:018][517]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test28)
+[2018.03.19-02.58.13:437][930]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test30)
+[2018.03.19-02.58.25:152][340]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test31)
+[2018.03.19-02.58.31:400][565]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test29)
+[2018.03.19-02.58.39:330][849]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test26)
+[2018.03.19-02.58.50:643][259]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test27)
+[2018.03.19-02.58.58:651][547]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test24)
+[2018.03.19-02.59.08:720][912]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test25)
+[2018.03.19-02.59.16:213][178]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test23)
+[2018.03.19-02.59.24:726][487]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test22)
+[2018.03.19-02.59.36:000][896]LogEditorViewport: Clicking on Actor (LMB): Long_Panels_C (Long_Panels)
+[2018.03.19-02.59.36:911][925]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test)
+[2018.03.19-02.59.45:485][230]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test2)
+[2018.03.19-02.59.51:952][457]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test4)
+[2018.03.19-02.59.58:800][698]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test3)
+[2018.03.19-03.00.06:100][955]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test6)
+[2018.03.19-03.00.13:086][204]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test5)
+[2018.03.19-03.00.20:437][475]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test7)
+[2018.03.19-03.00.30:531][840]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test8)
+[2018.03.19-03.00.36:356][ 52]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test13)
+[2018.03.19-03.00.44:488][348]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test14)
+[2018.03.19-03.00.50:141][555]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test12)
+[2018.03.19-03.00.56:022][771]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test15)
+[2018.03.19-03.01.25:583][238]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test16)
+[2018.03.19-03.01.35:649][606]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test17)
+[2018.03.19-03.01.46:658][ 36]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test18)
+[2018.03.19-03.01.52:975][283]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test19)
+[2018.03.19-03.02.00:143][563]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test21)
+[2018.03.19-03.02.34:285][977]Cmd: TRANSACTION UNDO
+[2018.03.19-03.02.34:285][977]LogEditorTransaction: Undo Rotate Actors
+[2018.03.19-03.03.04:851][104]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test2)
+[2018.03.19-03.03.26:754][ 21]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test4)
+[2018.03.19-03.03.35:624][363]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test6)
+[2018.03.19-03.03.43:438][656]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test8)
+[2018.03.19-03.03.54:637][ 68]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test)
+[2018.03.19-03.04.01:692][316]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test3)
+[2018.03.19-03.04.09:250][589]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test5)
+[2018.03.19-03.04.46:565][959]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.19-03.04.46:566][959]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [3169.85] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 8 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.19-03.04.47:407][959]LogSavePackage: Save=853.85ms
+[2018.03.19-03.04.47:407][959]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMap_Auto85BD7815F4A1ED4F4E0362781E25050B3.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2018.03.19-03.04.47:412][959]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap
+[2018.03.19-03.04.47:426][959]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.938
+[2018.03.19-03.04.47:426][959]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.938
+[2018.03.19-03.04.47:429][959]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Light_Test1] ([1] browsable assets)...
+[2018.03.19-03.04.47:429][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/Light_Test1]
+[2018.03.19-03.04.47:429][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Test1" FILE="D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2018.03.19-03.04.47:568][959]LogSavePackage: Save=105.60ms
+[2018.03.19-03.04.47:568][959]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Light_Test1_Auto8040976074C30EADE44A2ECA875F19107.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto8.uasset'
+[2018.03.19-03.04.47:573][959]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto8.uasset
+[2018.03.19-03.04.47:573][959]LogFileHelpers: Auto-saving content packages took 0.145
+[2018.03.19-03.05.38:641][885]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test7)
+[2018.03.19-03.05.55:359][481]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test13)
+[2018.03.19-03.06.13:478][132]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test12)
+[2018.03.19-03.06.24:191][520]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test15)
+[2018.03.19-03.06.32:189][804]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test17)
+[2018.03.19-03.06.38:673][ 33]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test19)
+[2018.03.19-03.06.47:608][348]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test21)
+[2018.03.19-03.07.06:464][ 17]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test14)
+[2018.03.19-03.07.19:082][471]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test16)
+[2018.03.19-03.07.38:217][148]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test18)
+[2018.03.19-03.07.47:418][506]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test20)
+[2018.03.19-03.08.03:541][ 93]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test22)
+[2018.03.19-03.08.18:894][631]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test23)
+[2018.03.19-03.08.31:791][ 81]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test24)
+[2018.03.19-03.08.41:289][408]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test26)
+[2018.03.19-03.08.46:734][599]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test28)
+[2018.03.19-03.08.54:888][890]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test30)
+[2018.03.19-03.09.04:037][212]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test31)
+[2018.03.19-03.09.13:283][567]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test29)
+[2018.03.19-03.09.21:289][844]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test27)
+[2018.03.19-03.09.30:162][146]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test25)
+[2018.03.19-03.10.01:006][292]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test2)
+[2018.03.19-03.10.21:409][ 15]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test)
+[2018.03.19-03.10.33:778][432]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test4)
+[2018.03.19-03.10.55:678][155]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test3)
+[2018.03.19-03.11.05:959][484]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test6)
+[2018.03.19-03.11.25:030][130]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.03.19-03.11.34:638][448]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test8)
+[2018.03.19-03.11.56:385][173]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test6)
+[2018.03.19-03.12.16:902][865]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test3)
+[2018.03.19-03.12.17:830][892]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test5)
+[2018.03.19-03.12.27:497][212]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test7)
+[2018.03.19-03.12.41:215][656]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test8)
+[2018.03.19-03.12.56:025][149]LogEditorViewport: Clicking on Actor (LMB): Diamond_Panels_C (Diamond_Panels)
+[2018.03.19-03.12.58:407][227]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test6)
+[2018.03.19-03.13.01:985][347]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.03.19-03.13.03:073][379]LogEditorViewport: Clicking on Actor (LMB): Light_Test_C (Light_Test8)
+[2018.03.19-03.14.47:873][758]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.19-03.14.47:874][758]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [3771.16] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 9 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.19-03.14.48:667][758]LogSavePackage: Save=812.62ms
+[2018.03.19-03.14.48:667][758]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMap_Auto94ABA4B3047C5D23ABE6019B2503355A7.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto9.umap'
+[2018.03.19-03.14.48:671][758]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto9.umap
+[2018.03.19-03.14.48:679][758]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.904
+[2018.03.19-03.14.48:679][758]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.904
+[2018.03.19-03.14.48:682][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Light_Test1] ([1] browsable assets)...
+[2018.03.19-03.14.48:682][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/Light_Test1]
+[2018.03.19-03.14.48:682][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Test1" FILE="D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2018.03.19-03.14.48:816][758]LogSavePackage: Save=104.93ms
+[2018.03.19-03.14.48:817][758]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Light_Test1_Auto9B4A2FE674BFB9EE9BE54B88FDC24160E.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto9.uasset'
+[2018.03.19-03.14.48:821][758]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto9.uasset
+[2018.03.19-03.14.48:821][758]LogFileHelpers: Auto-saving content packages took 0.140
+[2018.03.19-03.46.31:333][ 70]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.19-03.46.31:335][ 70]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [5674.62] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 9 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.19-03.46.32:109][ 70]LogSavePackage: Save=794.99ms
+[2018.03.19-03.46.32:110][ 70]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMap81995D4349B14D588B6E389449A1CA18.tmp' to 'D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.03.19-03.46.32:126][ 70]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.03.19-03.46.32:203][ 70]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.133
+[2018.03.19-03.46.32:207][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Test1" FILE="D:/Google Drive/Unreal/EDM/Content/Light_Test1.uasset" SILENT=true
+[2018.03.19-03.46.32:327][ 70]LogSavePackage: Save=92.42ms
+[2018.03.19-03.46.32:327][ 70]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Light_Test12ED51D214291D654814619BC5C0671E6.tmp' to 'D:/Google Drive/Unreal/EDM/Content/Light_Test1.uasset'
+[2018.03.19-03.46.32:333][ 70]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Content/Light_Test1.uasset
+[2018.03.19-03.46.33:690][105]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.19-03.46.33:690][105]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [5676.97] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 6 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.19-03.46.34:443][105]LogSavePackage: Save=763.35ms
+[2018.03.19-03.46.34:443][105]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMapFABBA68F46567A6B964E838443838B38.tmp' to 'D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.03.19-03.46.34:453][105]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.03.19-03.46.34:685][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2018.03.19-03.46.34:889][105]LogSavePackage: Save=176.35ms
+[2018.03.19-03.46.34:889][105]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMap_BuiltDataE278C3BC4D4F5A6A0B49208E7075A085.tmp' to 'D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.03.19-03.46.34:893][105]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.03.19-03.46.37:663][225]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.03.19-03.46.47:579][225]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.19-03.46.47:903][225]SourceControl: [master ef05d79] More light animation
+[2018.03.19-03.46.47:903][225]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2018.03.19-03.46.47:923][225]SourceControl: Commited [master ef05d79] More light animation.
+[2018.03.19-05.18.27:957][778]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.19-05.18.28:277][779]Cmd: QUIT_EDITOR
+[2018.03.19-05.18.28:390][779]LogExit: Preparing to exit.
+[2018.03.19-05.18.29:580][779]LogExit: Editor shut down
+[2018.03.19-05.18.29:623][779]LogExit: Transaction tracking system shut down
+[2018.03.19-05.18.29:959][779]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.19-05.18.29:959][779]LogDirectoryWatcher: A directory notification for 'D:/Google Drive/Unreal/EDM/Content/' was aborted.
+[2018.03.19-05.18.29:959][779]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.19-05.18.29:960][779]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.19-05.18.29:961][779]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.19-05.18.29:961][779]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.19-05.18.29:961][779]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.19-05.18.30:154][779]LogExit: Object subsystem successfully closed.
+[2018.03.19-05.18.30:199][779]LogD3D11RHI: Shutdown
+[2018.03.19-05.18.30:200][779]LogD3D11RHI: CleanupD3DDevice
+[2018.03.19-05.18.30:213][779]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.19-05.18.30:266][779]LogModuleManager: Shutting down and abandoning module SequencerWidgets (552)
+[2018.03.19-05.18.30:266][779]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.03.19-05.18.30:266][779]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.03.19-05.18.30:266][779]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.03.19-05.18.30:267][779]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.19-05.18.30:274][779]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.03.19-05.18.30:274][779]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.03.19-05.18.30:274][779]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.03.19-05.18.30:275][779]LogDirectoryWatcher: A directory notification for 'D:/Google Drive/Unreal/EDM/Content/Collections/' was aborted.
+[2018.03.19-05.18.30:275][779]LogDirectoryWatcher: A directory notification for 'D:/Google Drive/Unreal/EDM/Content/Developers/Michal/Collections/' was aborted.
+[2018.03.19-05.18.30:275][779]LogDirectoryWatcher: A directory notification for 'D:/Google Drive/Unreal/EDM/Saved/Collections/' was aborted.
+[2018.03.19-05.18.30:275][779]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2018.03.19-05.18.30:276][779]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2018.03.19-05.18.30:276][779]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2018.03.19-05.18.30:277][779]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2018.03.19-05.18.30:277][779]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2018.03.19-05.18.30:277][779]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2018.03.19-05.18.30:278][779]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2018.03.19-05.18.30:278][779]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2018.03.19-05.18.30:278][779]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2018.03.19-05.18.30:278][779]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2018.03.19-05.18.30:278][779]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2018.03.19-05.18.30:278][779]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2018.03.19-05.18.30:278][779]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2018.03.19-05.18.30:278][779]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2018.03.19-05.18.30:278][779]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2018.03.19-05.18.30:279][779]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2018.03.19-05.18.30:279][779]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2018.03.19-05.18.30:279][779]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2018.03.19-05.18.30:279][779]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2018.03.19-05.18.30:279][779]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2018.03.19-05.18.30:279][779]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2018.03.19-05.18.30:279][779]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2018.03.19-05.18.30:279][779]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2018.03.19-05.18.30:279][779]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2018.03.19-05.18.30:279][779]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2018.03.19-05.18.30:279][779]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2018.03.19-05.18.30:279][779]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2018.03.19-05.18.30:279][779]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2018.03.19-05.18.30:280][779]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2018.03.19-05.18.30:280][779]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2018.03.19-05.18.30:280][779]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2018.03.19-05.18.30:280][779]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2018.03.19-05.18.30:280][779]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2018.03.19-05.18.30:281][779]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2018.03.19-05.18.30:283][779]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2018.03.19-05.18.30:284][779]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2018.03.19-05.18.30:285][779]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2018.03.19-05.18.30:286][779]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2018.03.19-05.18.30:286][779]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2018.03.19-05.18.30:286][779]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2018.03.19-05.18.30:286][779]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2018.03.19-05.18.31:243][779]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2018.03.19-05.18.31:243][779]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2018.03.19-05.18.31:244][779]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2018.03.19-05.18.31:244][779]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2018.03.19-05.18.31:244][779]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2018.03.19-05.18.31:244][779]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2018.03.19-05.18.31:244][779]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2018.03.19-05.18.31:245][779]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2018.03.19-05.18.31:245][779]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2018.03.19-05.18.31:245][779]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2018.03.19-05.18.31:246][779]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2018.03.19-05.18.31:246][779]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2018.03.19-05.18.31:246][779]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2018.03.19-05.18.31:246][779]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2018.03.19-05.18.31:246][779]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2018.03.19-05.18.31:246][779]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2018.03.19-05.18.31:246][779]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2018.03.19-05.18.31:246][779]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2018.03.19-05.18.31:247][779]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2018.03.19-05.18.31:247][779]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2018.03.19-05.18.31:248][779]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2018.03.19-05.18.31:248][779]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2018.03.19-05.18.31:249][779]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2018.03.19-05.18.31:249][779]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2018.03.19-05.18.31:306][779]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2018.03.19-05.18.31:309][779]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2018.03.19-05.18.31:310][779]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2018.03.19-05.18.31:311][779]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2018.03.19-05.18.31:311][779]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2018.03.19-05.18.31:312][779]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2018.03.19-05.18.31:313][779]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2018.03.19-05.18.31:313][779]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2018.03.19-05.18.31:313][779]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2018.03.19-05.18.31:314][779]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2018.03.19-05.18.31:316][779]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2018.03.19-05.18.31:317][779]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2018.03.19-05.18.31:317][779]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2018.03.19-05.18.31:317][779]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2018.03.19-05.18.31:318][779]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2018.03.19-05.18.31:318][779]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2018.03.19-05.18.31:318][779]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2018.03.19-05.18.31:319][779]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2018.03.19-05.18.31:319][779]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2018.03.19-05.18.31:319][779]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2018.03.19-05.18.31:319][779]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2018.03.19-05.18.31:319][779]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2018.03.19-05.18.31:319][779]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2018.03.19-05.18.31:319][779]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2018.03.19-05.18.31:319][779]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2018.03.19-05.18.31:319][779]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2018.03.19-05.18.31:320][779]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2018.03.19-05.18.31:320][779]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2018.03.19-05.18.31:321][779]LogModuleManager: Shutting down and abandoning module DesktopPlatform (352)
+[2018.03.19-05.18.31:321][779]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2018.03.19-05.18.31:559][779]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2018.03.19-05.18.31:560][779]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.03.19-05.18.31:560][779]LogModuleManager: Shutting down and abandoning module SoundVisualizations (344)
+[2018.03.19-05.18.31:560][779]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.03.19-05.18.31:560][779]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.03.19-05.18.31:560][779]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.03.19-05.18.31:560][779]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.03.19-05.18.31:561][779]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.03.19-05.18.31:561][779]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.03.19-05.18.31:561][779]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.03.19-05.18.31:561][779]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.03.19-05.18.31:561][779]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.03.19-05.18.31:561][779]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.03.19-05.18.31:563][779]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.03.19-05.18.31:563][779]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.03.19-05.18.31:563][779]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.03.19-05.18.31:563][779]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.03.19-05.18.31:563][779]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.03.19-05.18.31:563][779]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.03.19-05.18.31:563][779]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.03.19-05.18.31:563][779]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.03.19-05.18.31:563][779]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.03.19-05.18.31:565][779]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.03.19-05.18.31:566][779]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.03.19-05.18.31:566][779]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.03.19-05.18.31:567][779]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.03.19-05.18.31:567][779]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.03.19-05.18.31:567][779]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.03.19-05.18.31:568][779]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.03.19-05.18.31:568][779]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.03.19-05.18.31:568][779]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.03.19-05.18.31:568][779]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.03.19-05.18.31:568][779]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.03.19-05.18.31:568][779]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.03.19-05.18.31:569][779]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.03.19-05.18.31:569][779]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.03.19-05.18.31:572][779]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.03.19-05.18.31:573][779]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.03.19-05.18.31:573][779]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.03.19-05.18.31:574][779]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.03.19-05.18.31:574][779]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.03.19-05.18.31:574][779]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.03.19-05.18.31:574][779]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.03.19-05.18.31:574][779]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.03.19-05.18.31:574][779]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.03.19-05.18.31:575][779]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.03.19-05.18.31:575][779]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.03.19-05.18.31:676][779]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.03.19-05.18.31:777][779]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.19-05.18.31:778][779]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.19-05.18.31:778][779]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.19-05.18.31:778][779]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.19-05.18.31:779][779]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.19-05.18.31:781][779]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.19-05.18.31:784][779]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.19-05.18.31:784][779]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.19-05.18.31:784][779]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.19-05.18.31:784][779]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.19-05.18.31:786][779]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.19-05.18.31:786][779]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.19-05.18.31:786][779]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.19-05.18.31:786][779]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.19-05.18.31:786][779]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.19-05.18.31:786][779]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.19-05.18.31:793][779]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.19-05.18.31:793][779]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.19-05.18.31:793][779]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.19-05.18.31:794][779]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.19-05.18.31:794][779]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.19-05.18.31:794][779]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.19-05.18.31:796][779]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.19-05.18.31:796][779]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.19-05.18.31:797][779]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.19-05.18.31:797][779]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.19-05.18.31:797][779]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.19-05.18.31:798][779]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.19-05.18.31:799][779]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.19-05.18.31:799][779]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.19-05.18.31:801][779]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.19-05.18.31:801][779]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.19-05.18.31:805][779]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.19-05.18.31:805][779]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.19-05.18.31:805][779]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.19-05.18.31:805][779]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.19-05.18.31:805][779]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.19-05.18.31:805][779]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.19-05.18.31:806][779]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.19-05.18.31:806][779]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.19-05.18.31:815][779]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.19-05.18.31:815][779]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.19-05.18.31:816][779]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.19-05.18.31:817][779]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.19-05.18.31:817][779]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.19-05.18.31:817][779]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.19-05.18.31:817][779]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.19-05.18.31:817][779]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.19-05.18.31:818][779]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.19-05.18.31:868][779]LogDerivedDataCache: Shutdown
+[2018.03.19-05.18.31:868][779]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.19-05.18.31:868][779]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.19-05.18.31:868][779]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.19-05.18.31:869][779]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.19-05.18.31:869][779]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.19-05.18.31:869][779]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.19-05.18.31:870][779]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.19-05.18.31:870][779]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.19-05.18.31:870][779]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.19-05.18.31:870][779]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.19-05.18.31:870][779]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.19-05.18.31:870][779]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.19-05.18.31:870][779]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.19-05.18.31:870][779]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.19-05.18.31:870][779]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.19-05.18.31:871][779]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.19-05.18.31:872][779]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.19-05.18.31:872][779]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.19-05.18.31:872][779]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.19-05.18.31:872][779]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.19-05.18.31:873][779]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.19-05.18.31:873][779]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.19-05.18.31:873][779]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.19-05.18.31:873][779]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.19-05.18.31:873][779]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.19-05.18.31:873][779]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.19-05.18.31:873][779]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.19-05.18.31:873][779]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.19-05.18.31:873][779]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.19-05.18.31:874][779]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.19-05.18.31:875][779]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.19-05.18.31:875][779]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.19-05.18.31:875][779]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C4BF480-4697-BA7A-CEB9-55905B2E6258%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=abb781c741b7268fc6f4bab89abffcde%7C8632ad1643164bfc82cba1a21745caf1%7Cbda52249-a07c-4bb5-853e-ca3e3350741e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.19-05.18.31:911][779]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.19-05.18.31:915][779]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.19-05.18.31:916][779]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.19-05.18.31:916][779]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.19-05.18.31:917][779]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.19-05.18.31:918][779]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.19-05.18.31:918][779]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.19-05.18.31:918][779]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.19-05.18.31:934][779]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.19-05.18.31:935][779]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.19-05.18.31:935][779]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.19-05.18.31:935][779]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.19-05.18.31:935][779]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.19-05.18.31:935][779]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.19-05.18.31:935][779]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.19-05.18.31:935][779]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.19-05.18.31:935][779]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.19-05.18.31:936][779]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.19-05.18.31:936][779]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.19-05.18.31:943][779]LogExit: Exiting.
+[2018.03.19-05.18.31:981][779]Log file closed, 03/19/18 01:18:31
