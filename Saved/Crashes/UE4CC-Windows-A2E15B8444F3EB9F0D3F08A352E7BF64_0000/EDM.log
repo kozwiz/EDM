@@ -1,0 +1,814 @@
+﻿Log file open, 03/26/18 23:07:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: EDM
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-816855708) SRandInit(-816855701).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.616770
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/SoundVisualizations/Binaries/Win64/UE4Editor-SoundVisualizations.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundVisualizations
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.27-03.07.54:306][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.27-03.07.54:306][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.27-03.07.54:463][  0]LogInit: Computer: DESKTOP-6IAEQ09
+[2018.03.27-03.07.54:463][  0]LogInit: User: Michal
+[2018.03.27-03.07.54:463][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.03.27-03.07.54:463][  0]LogInit: High frequency timer resolution =14.318180 MHz
+[2018.03.27-03.07.54:464][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.03.27-03.07.54:464][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.27-03.07.54:464][  0]LogMemory: Process Physical Memory: 274.88 MB used, 274.88 MB peak
+[2018.03.27-03.07.54:464][  0]LogMemory: Process Virtual Memory: 269.16 MB used, 269.16 MB peak
+[2018.03.27-03.07.54:464][  0]LogMemory: Physical Memory: 3391.06 MB used,  4752.08 MB free, 8143.14 MB total
+[2018.03.27-03.07.54:464][  0]LogMemory: Virtual Memory: 673.79 MB used,  4752.08 MB free, 134217728.00 MB total
+[2018.03.27-03.07.55:030][  0]LogInit: Using OS detected language (en-US).
+[2018.03.27-03.07.55:030][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.27-03.07.55:116][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.27-03.07.55:830][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.27-03.07.59:641][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.27-03.07.59:667][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R9 200 Series' (Feature Level 11_0)
+[2018.03.27-03.07.59:667][  0]LogD3D11RHI:       2029/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.03.27-03.07.59:670][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.27-03.07.59:670][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.27-03.07.59:670][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.27-03.07.59:680][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.27-03.07.59:680][  0]LogD3D11RHI:     GPU DeviceId: 0x6811 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.27-03.07.59:680][  0]LogWindows: EnumDisplayDevices:
+[2018.03.27-03.07.59:681][  0]LogWindows:    0. 'AMD Radeon (TM) R9 200 Series' (P:1 D:1)
+[2018.03.27-03.07.59:681][  0]LogWindows:    1. 'AMD Radeon (TM) R9 200 Series' (P:0 D:1)
+[2018.03.27-03.07.59:681][  0]LogWindows:    2. 'AMD Radeon (TM) R9 200 Series' (P:0 D:0)
+[2018.03.27-03.07.59:681][  0]LogWindows:    3. 'AMD Radeon (TM) R9 200 Series' (P:0 D:0)
+[2018.03.27-03.07.59:682][  0]LogWindows:    4. 'AMD Radeon (TM) R9 200 Series' (P:0 D:0)
+[2018.03.27-03.07.59:682][  0]LogWindows:    5. 'AMD Radeon (TM) R9 200 Series' (P:0 D:0)
+[2018.03.27-03.07.59:682][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.27-03.07.59:682][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R9 200 Series
+[2018.03.27-03.07.59:682][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.27-03.07.59:682][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.27-03.07.59:682][  0]LogRHI: Texture pool is 1420 MB (70% of 2029 MB)
+[2018.03.27-03.07.59:756][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.27-03.07.59:787][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.03.27-03.07.59:792][  0]LogShaderCompilers: Guid format shader working directory is 20 characters bigger than the processId version (D:/Google Drive/Unreal/EDM/Intermediate/Shaders/WorkingDirectory/11048/).
+[2018.03.27-03.07.59:792][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Michal/AppData/Local/Temp/UnrealShaderWorkingDir/30FB14F54D1D4A128E7CEABA72035B27/'.
+[2018.03.27-03.07.59:792][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.27-03.08.03:426][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.27-03.08.03:530][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.27-03.08.03:634][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.27-03.08.03:745][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.27-03.08.03:861][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.27-03.08.03:964][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.27-03.08.04:066][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.27-03.08.04:171][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.27-03.08.04:270][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.27-03.08.04:372][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.27-03.08.04:481][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.27-03.08.04:585][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.27-03.08.04:702][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.27-03.08.04:813][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.27-03.08.05:034][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.27-03.08.05:034][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.27-03.08.05:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.27-03.08.05:234][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.27-03.08.05:405][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.27-03.08.05:453][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.27-03.08.05:559][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.27-03.08.05:661][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.27-03.08.05:771][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.27-03.08.05:885][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.27-03.08.05:885][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.27-03.08.06:951][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.27-03.08.07:382][  0]LogDerivedDataCache: Loaded boot cache 0.43s 78MB C:/Users/Michal/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.27-03.08.07:382][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Michal/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.27-03.08.07:382][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Google Drive/Unreal/EDM/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.27-03.08.07:383][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.27-03.08.07:383][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Google Drive/Unreal/EDM/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.27-03.08.07:383][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.27-03.08.07:421][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.27-03.08.07:435][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Michal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.27-03.08.07:457][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.27-03.08.07:461][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.27-03.08.07:485][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.27-03.08.07:486][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.27-03.08.08:678][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.27-03.08.09:567][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.27-03.08.09:655][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.27-03.08.09:655][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.27-03.08.09:655][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.27-03.08.09:655][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.27-03.08.09:655][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.27-03.08.09:751][  0]LogNetVersion: EDM , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2285733795)
+[2018.03.27-03.08.10:362][  0]LogAssetRegistry: FAssetRegistry took 0.0323 seconds to start up
+[2018.03.27-03.08.12:022][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.098472 seconds
+[2018.03.27-03.08.12:031][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.27-03.08.12:031][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.03.27-03.08.12:031][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.27-03.08.12:148][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.27-03.08.21:460][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.27-03.08.21:540][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.27-03.08.23:104][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.27-03.08.24:122][  0]SourceControl: Source control is disabled
+[2018.03.27-03.08.27:304][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.27-03.08.27:913][  0]LogOcInput: OculusInput pre-init called
+[2018.03.27-03.08.28:674][  0]LogEngine: Initializing Engine...
+[2018.03.27-03.08.28:680][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.27-03.08.29:298][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.27-03.08.29:298][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.27-03.08.29:591][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.27-03.08.29:618][  0]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.27-03.08.29:649][  0]LogInit: FAudioDevice initialized.
+[2018.03.27-03.08.29:774][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/Michal/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.27-03.08.29:811][  0]LogInit: Texture streaming: Enabled
+[2018.03.27-03.08.30:037][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.27-03.08.30:326][  0]LogInit: Transaction tracking system initialized
+[2018.03.27-03.08.31:048][  0]BlueprintLog: New page: Editor Load
+[2018.03.27-03.08.33:091][  0]LocalizationService: Localization service is disabled
+[2018.03.27-03.08.34:771][  0]LogConsoleResponse: Display: 
+[2018.03.27-03.08.35:684][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.27-03.08.35:684][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.27-03.08.35:684][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.27-03.08.36:499][  0]LogFileCache: Scanning file cache for directory 'D:/Google Drive/Unreal/EDM/Content/' took 0.02s
+[2018.03.27-03.08.38:494][  0]Cmd: MAP LOAD FILE="D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.27-03.08.38:495][  0]LightingResults: New page: Lighting Build
+[2018.03.27-03.08.38:596][  0]MapCheck: New page: Map Check
+[2018.03.27-03.08.38:596][  0]LightingResults: New page: Lighting Build
+[2018.03.27-03.08.42:912][  0]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.27-03.08.42:914][  0]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [0056.28] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 4 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.27-03.08.43:738][  0]LogTexture: Display: Building textures: 29 (RGBA16F, 256X1)
+[2018.03.27-03.08.43:738][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.03.27-03.08.43:738][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.03.27-03.08.43:738][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.03.27-03.08.43:738][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.03.27-03.08.43:738][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.03.27-03.08.43:738][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.03.27-03.08.43:738][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.03.27-03.08.43:738][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2018.03.27-03.08.43:738][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2018.03.27-03.08.43:738][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 512X512)
+[2018.03.27-03.08.48:049][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.27-03.08.48:211][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.27-03.08.48:253][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.27-03.08.48:409][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 155.146ms to complete.
+[2018.03.27-03.08.48:409][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 9.916
+[2018.03.27-03.08.48:746][  0]LogCollectionManager: Loaded 0 collections in 0.003495 seconds
+[2018.03.27-03.08.48:945][  0]LogFileCache: Scanning file cache for directory 'D:/Google Drive/Unreal/EDM/Saved/Collections/' took 0.01s
+[2018.03.27-03.08.48:945][  0]LogFileCache: Scanning file cache for directory 'D:/Google Drive/Unreal/EDM/Content/Developers/Michal/Collections/' took 0.01s
+[2018.03.27-03.08.48:945][  0]LogFileCache: Scanning file cache for directory 'D:/Google Drive/Unreal/EDM/Content/Collections/' took 0.01s
+[2018.03.27-03.08.48:945][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.03.27-03.08.48:967][  0]LogContentBrowser: Native class hierarchy populated in 0.0213 seconds. Added 2364 classes and 522 folders.
+[2018.03.27-03.08.49:155][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.03.27-03.08.49:750][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.27-03.08.49:863][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.03.27-03.08.50:053][  0]LogSlate: Took 0.011946 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.27-03.08.50:066][  0]LogSlate: Took 0.010235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.27-03.08.50:081][  0]LogSlate: Took 0.007947 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.27-03.08.50:331][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.03.27-03.08.50:611][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.27-03.08.50:611][  0]LogLoad: (Engine Initialization) Total time: 63.98 seconds
+[2018.03.27-03.08.50:612][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.27-03.08.50:612][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.27-03.08.50:692][  0]SourceControl: On branch master
+[2018.03.27-03.08.50:692][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.03.27-03.08.50:692][  0]SourceControl: Changes not staged for commit:
+[2018.03.27-03.08.50:692][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.03.27-03.08.50:692][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.03.27-03.08.50:692][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.03.27-03.08.50:692][  0]SourceControl: 	modified:   Saved/AutoScreenshot.png
+[2018.03.27-03.08.50:692][  0]SourceControl: 	modified:   Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.03.27-03.08.50:692][  0]SourceControl: 	modified:   Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.03.27-03.08.50:692][  0]SourceControl: 	modified:   Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2018.03.27-03.08.50:692][  0]SourceControl: 	modified:   Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2018.03.27-03.08.50:692][  0]SourceControl: 	modified:   Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap
+[2018.03.27-03.08.50:692][  0]SourceControl: 	modified:   Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap
+[2018.03.27-03.08.50:693][  0]SourceControl: 	modified:   Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap
+[2018.03.27-03.08.50:693][  0]SourceControl: 	modified:   Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap
+[2018.03.27-03.08.50:693][  0]SourceControl: 	modified:   Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto9.umap
+[2018.03.27-03.08.50:693][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-FF970B4F4E0CC69E2EDC4FB4613D3A04/CrashReportClient.ini
+[2018.03.27-03.08.50:693][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2018.03.27-03.08.50:693][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.03.27-03.08.50:693][  0]SourceControl: 	deleted:    Saved/Logs/EDM-backup-2018.03.12-22.40.29.log
+[2018.03.27-03.08.50:693][  0]SourceControl: 	deleted:    Saved/Logs/EDM-backup-2018.03.13-22.49.16.log
+[2018.03.27-03.08.50:693][  0]SourceControl: 	deleted:    Saved/Logs/EDM-backup-2018.03.14-19.14.20.log
+[2018.03.27-03.08.50:693][  0]SourceControl: 	deleted:    Saved/Logs/EDM-backup-2018.03.14-20.33.21.log
+[2018.03.27-03.08.50:693][  0]SourceControl: 	deleted:    Saved/Logs/EDM-backup-2018.03.17-20.04.27.log
+[2018.03.27-03.08.50:693][  0]SourceControl: 	deleted:    Saved/Logs/EDM-backup-2018.03.18-19.25.24.log
+[2018.03.27-03.08.50:693][  0]SourceControl: 	modified:   Saved/Logs/EDM.log
+[2018.03.27-03.08.50:693][  0]SourceControl: Untracked files:
+[2018.03.27-03.08.50:693][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Autosaves/Game/Cinematics/
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Autosaves/Game/Midde_1_CrissCross_Auto1.uasset
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Autosaves/Game/Midde_1_CrissCross_Auto3.uasset
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Autosaves/Game/Middle_2_CrissCross_Auto4.uasset
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Autosaves/Game/Middle_3_Up_Auto8.uasset
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Autosaves/Game/Middle_3_Up_Auto9.uasset
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Autosaves/Game/Middle_4_CrissCross_Auto5.uasset
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Autosaves/Game/Middle_4_Up_Auto9.uasset
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Backup/Light_Test1_2018-03-22-22-00-49.uasset
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Backup/Middle_1_Up_2018-03-22-23-27-05.uasset
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Backup/Middle_1_Up_2018-03-23-01-22-18.uasset
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Backup/ThirdPersonExampleMap_2018-03-22-22-00-33.umap
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Backup/ThirdPersonExampleMap_2018-03-22-22-10-34.umap
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Backup/ThirdPersonExampleMap_2018-03-22-22-20-36.umap
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Backup/ThirdPersonExampleMap_2018-03-22-22-30-38.umap
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Backup/ThirdPersonExampleMap_2018-03-22-22-46-11.umap
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Backup/ThirdPersonExampleMap_2018-03-22-22-56-12.umap
+[2018.03.27-03.08.50:693][  0]SourceControl: 	Saved/Backup/ThirdPersonExampleMap_2018-03-22-23-07-16.umap
+[2018.03.27-03.08.50:694][  0]SourceControl: 	Saved/Backup/ThirdPersonExampleMap_2018-03-23-01-26-16.umap
+[2018.03.27-03.08.50:694][  0]SourceControl: 	Saved/Backup/ThirdPersonExampleMap_2018-03-23-01-44-31.umap
+[2018.03.27-03.08.50:694][  0]SourceControl: 	Saved/Backup/ThirdPersonExampleMap_2018-03-23-02-16-20.umap
+[2018.03.27-03.08.50:694][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-A2E15B8444F3EB9F0D3F08A352E7BF64/
+[2018.03.27-03.08.50:694][  0]SourceControl: 	Saved/Logs/EDM-backup-2018.03.26-23.07.50.log
+[2018.03.27-03.08.50:694][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.03.27-03.08.50:694][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.27-03.08.50:785][  0]LogSlate: Took 0.007535 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.27-03.08.50:895][  2]LogAssetRegistry: Asset discovery search completed in 40.5565 seconds
+[2018.03.27-03.08.50:900][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.03.27-03.08.50:900][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000152 seconds (updated 0 objects)
+[2018.03.27-03.08.51:677][ 54]LogSlate: Took 0.000460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.27-03.22.17:340][674]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint)
+[2018.03.27-03.22.35:466][960]LogSlate: Took 0.004502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.27-03.22.46:911][551]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint)
+[2018.03.27-03.22.56:356][161]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint2)
+[2018.03.27-03.23.25:424][529]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.27-03.23.25:424][529]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [0938.79] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 8 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.27-03.23.25:973][529]LogSavePackage: Save=562.09ms
+[2018.03.27-03.23.25:973][529]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMap_Auto1403B571740446CAEACA65E9D5F5ADA59.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.03.27-03.23.25:979][529]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.03.27-03.23.26:000][529]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.646
+[2018.03.27-03.23.26:001][529]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.646
+[2018.03.27-03.23.26:008][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Light_Test1] ([1] browsable assets)...
+[2018.03.27-03.23.26:008][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Light_Test1]
+[2018.03.27-03.23.26:008][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Test1" FILE="D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.03.27-03.23.26:062][529]LogSavePackage: Save=20.43ms
+[2018.03.27-03.23.26:063][529]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Light_Test1_Auto162950A104D0C7A53953D65AD0818305C.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto1.uasset'
+[2018.03.27-03.23.26:066][529]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto1.uasset
+[2018.03.27-03.23.26:066][529]LogFileHelpers: Auto-saving content packages took 0.059
+[2018.03.27-03.23.42:992][981]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint2)
+[2018.03.27-03.33.26:202][784]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.27-03.33.26:203][784]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [1539.57] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 8 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.27-03.33.26:741][784]LogSavePackage: Save=549.41ms
+[2018.03.27-03.33.26:741][784]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMap_Auto290ED8C76404198FDA4A4E5A7BCB64F15.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.03.27-03.33.26:745][784]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.03.27-03.33.26:752][784]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.612
+[2018.03.27-03.33.26:752][784]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.612
+[2018.03.27-04.15.43:008][610]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Michal/Downloads/Split - Tiesto & Chainsmokers.wav)
+[2018.03.27-04.15.43:490][610]LogAudioDerivedData: Display: Building compressed audio format OGG wave Split_-_Tiesto___Chainsmokers...
+[2018.03.27-04.15.53:691][610]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/ThirdPersonBP/Music/Split_-_Tiesto___Chainsmokers.Split_-_Tiesto___Chainsmokers.
+[2018.03.27-04.15.56:873][740]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.026
+[2018.03.27-04.15.56:878][740]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Music/Split_-_Tiesto___Chainsmokers] ([1] browsable assets)...
+[2018.03.27-04.15.56:942][740]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/ThirdPersonBP/Music/Split_-_Tiesto___Chainsmokers.Split_-_Tiesto___Chainsmokers]
+[2018.03.27-04.15.56:942][740]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Music/Split_-_Tiesto___Chainsmokers]
+[2018.03.27-04.15.57:683][740]LogSavePackage: Save=731.47ms
+[2018.03.27-04.15.57:683][740]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Split_-_Tiesto___Chainsmokers_Au64A13A1C42042F7515A850AAB2AA29F3.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Music/Split_-_Tiesto___Chainsmokers_Auto3.uasset'
+[2018.03.27-04.15.57:690][740]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Music/Split_-_Tiesto___Chainsmokers_Auto3.uasset
+[2018.03.27-04.15.57:690][740]LogFileHelpers: Auto-saving content packages took 0.816
+[2018.03.27-04.15.57:703][740]LogSlate: Took 0.010083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.27-04.19.23:932][766]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint2)
+[2018.03.27-04.19.31:689][274]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint)
+[2018.03.27-04.20.14:214][832]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint5)
+[2018.03.27-04.20.17:428][  4]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.03.27-04.20.18:712][ 76]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint5)
+[2018.03.27-04.22.25:359][354]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint)
+[2018.03.27-04.23.44:824][563]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint2)
+[2018.03.27-04.25.27:196][713]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint4)
+[2018.03.27-04.27.39:619][264]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint10)
+[2018.03.27-04.28.06:440][597]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint5)
+[2018.03.27-04.28.07:577][650]LogSlate: Took 0.012939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.27-04.28.42:815][568]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint10)
+[2018.03.27-04.29.21:527][465]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint9)
+[2018.03.27-04.29.48:358][811]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint8)
+[2018.03.27-04.30.13:699][102]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint9)
+[2018.03.27-04.30.29:145][868]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint8)
+[2018.03.27-04.30.46:493][728]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint7)
+[2018.03.27-04.31.16:290][225]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint6)
+[2018.03.27-04.33.11:734][915]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint)
+[2018.03.27-04.33.14:293][ 39]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Middle_2_Up)
+[2018.03.27-04.33.15:292][ 87]Cmd: DELETE
+[2018.03.27-04.33.15:293][ 87]Cmd: ACTOR DELETE
+[2018.03.27-04.33.15:391][ 87]LogEditorActor: Deleted Actor: LevelSequenceActor
+[2018.03.27-04.33.15:411][ 87]LogEditorActor: Deleted 1 Actors (0.117 secs)
+[2018.03.27-04.33.17:809][225]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint)
+[2018.03.27-04.33.19:156][289]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint2)
+[2018.03.27-04.33.20:275][342]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint)
+[2018.03.27-04.35.22:104][314]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.27-04.35.22:105][314]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [5255.47] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 8 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.27-04.35.22:683][314]LogSavePackage: Save=594.45ms
+[2018.03.27-04.35.22:683][314]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMap_Auto42D9BE07146FA33D2575012A542D4ED74.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2018.03.27-04.35.22:686][314]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2018.03.27-04.35.22:697][314]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.664
+[2018.03.27-04.35.22:697][314]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.664
+[2018.03.27-04.35.22:700][314]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Light_Test1] ([1] browsable assets)...
+[2018.03.27-04.35.22:700][314]OBJ SavePackage: Finished generating thumbnails for package [/Game/Light_Test1]
+[2018.03.27-04.35.22:700][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Test1" FILE="D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.03.27-04.35.23:054][314]LogSavePackage: Save=320.85ms
+[2018.03.27-04.35.23:054][314]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Light_Test1_Auto4B207E6C547AC9E059DBD9F9A0F0E8695.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto4.uasset'
+[2018.03.27-04.35.23:059][314]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto4.uasset
+[2018.03.27-04.35.23:060][314]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Music/Split_-_Tiesto___Chainsmokers_Cue] ([1] browsable assets)...
+[2018.03.27-04.35.23:060][314]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Music/Split_-_Tiesto___Chainsmokers_Cue]
+[2018.03.27-04.35.23:076][314]LogSavePackage: Save=13.73ms
+[2018.03.27-04.35.23:077][314]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Split_-_Tiesto___Chainsmokers_Cu75432BB44D967C66F6BAA98303FB403B.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Music/Split_-_Tiesto___Chainsmokers_Cue_Auto4.uasset'
+[2018.03.27-04.35.23:077][314]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/ThirdPersonBP/Music/Split_-_Tiesto___Chainsmokers_Cue_Auto4.uasset
+[2018.03.27-04.35.23:077][314]LogFileHelpers: Auto-saving content packages took 0.379
+[2018.03.27-04.45.28:182][935]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint9)
+[2018.03.27-04.47.18:518][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Test1" FILE="D:/Google Drive/Unreal/EDM/Content/Light_Test1.uasset" SILENT=true
+[2018.03.27-04.47.18:650][176]LogSavePackage: Save=97.95ms
+[2018.03.27-04.47.18:650][176]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Light_Test16FC2DAAA42C1C4EE7DF7F6AC6FC3D8A6.tmp' to 'D:/Google Drive/Unreal/EDM/Content/Light_Test1.uasset'
+[2018.03.27-04.47.18:668][176]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Content/Light_Test1.uasset
+[2018.03.27-04.48.27:802][137]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint)
+[2018.03.27-04.49.12:680][765]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint)
+[2018.03.27-04.49.15:513][938]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Middle_Light_Blueprint)
+[2018.03.27-04.49.34:757][ 73]Cmd: TRANSACTION UNDO
+[2018.03.27-04.49.34:757][ 73]LogEditorTransaction: Undo Rename Actor
+[2018.03.27-04.49.35:533][109]Cmd: TRANSACTION UNDO
+[2018.03.27-04.49.35:533][109]LogEditorTransaction: Undo Move Actors
+[2018.03.27-04.49.36:049][135]Cmd: TRANSACTION UNDO
+[2018.03.27-04.49.36:049][135]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.27-04.49.38:104][256]Cmd: TRANSACTION UNDO
+[2018.03.27-04.49.38:104][256]LogEditorTransaction: Undo Marquee Select
+[2018.03.27-04.49.38:903][296]Cmd: TRANSACTION UNDO
+[2018.03.27-04.49.38:903][296]LogEditorTransaction: Undo Move Actors
+[2018.03.27-04.49.39:451][324]Cmd: TRANSACTION UNDO
+[2018.03.27-04.49.39:451][324]LogEditorTransaction: Undo Move Actors
+[2018.03.27-04.49.39:910][348]Cmd: TRANSACTION UNDO
+[2018.03.27-04.49.39:910][348]LogEditorTransaction: Undo Move Actors
+[2018.03.27-04.49.40:354][371]Cmd: TRANSACTION UNDO
+[2018.03.27-04.49.40:355][371]LogEditorTransaction: Undo Move Actors
+[2018.03.27-04.49.40:852][398]Cmd: TRANSACTION UNDO
+[2018.03.27-04.49.40:852][398]LogEditorTransaction: Undo Move Actors
+[2018.03.27-04.49.41:387][427]Cmd: TRANSACTION UNDO
+[2018.03.27-04.49.41:387][427]LogEditorTransaction: Undo Move Actors
+[2018.03.27-04.49.41:827][450]Cmd: TRANSACTION UNDO
+[2018.03.27-04.49.41:827][450]LogEditorTransaction: Undo Move Actors
+[2018.03.27-04.49.42:314][476]Cmd: TRANSACTION UNDO
+[2018.03.27-04.49.42:314][476]LogEditorTransaction: Undo Move Actors
+[2018.03.27-04.49.42:811][503]Cmd: TRANSACTION UNDO
+[2018.03.27-04.49.42:811][503]LogEditorTransaction: Undo Move Actors
+[2018.03.27-04.49.43:540][543]Cmd: TRANSACTION UNDO
+[2018.03.27-04.49.43:540][543]LogEditorTransaction: Undo Move Actors
+[2018.03.27-04.50.32:175][405]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Left_Light_Blueprint)
+[2018.03.27-04.50.57:184][790]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.03.27-04.51.12:426][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.27-04.51.17:730][979]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Left_Light_Blueprint)
+[2018.03.27-04.51.56:947][239]Cmd: TRANSACTION UNDO
+[2018.03.27-04.51.56:947][239]LogEditorTransaction: Undo Move Actors
+[2018.03.27-04.52.10:824][999]Cmd: TRANSACTION UNDO
+[2018.03.27-04.52.10:824][999]LogEditorTransaction: Undo Marquee Select
+[2018.03.27-04.54.04:334][183]LogEditorViewport: Clicking on Actor (LMB): Sun_Stage_C (Sun_Stage)
+[2018.03.27-04.54.05:345][232]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.03.27-04.54.06:550][288]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Left_Light_Blueprint)
+[2018.03.27-04.54.52:749][687]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Left_Light_Blueprint2)
+[2018.03.27-05.01.07:517][723]LogEditorViewport: Clicking Background
+[2018.03.27-05.01.10:451][902]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Left_Light_Blueprint7)
+[2018.03.27-05.01.15:612][172]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Left_Light_Blueprint6)
+[2018.03.27-05.01.22:307][516]LogEditorViewport: Clicking on Actor (LMB): Middle_Light_Blueprint_C (Left_Light_Blueprint8)
+[2018.03.27-05.02.20:686][547]LogEditorViewport: Clicking on Actor (LMB): Sun_Stage_C (Sun_Stage)
+[2018.03.27-05.02.21:951][610]Cmd: TRANSACTION UNDO
+[2018.03.27-05.02.21:951][610]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.27-05.02.50:858][138]LogEditorViewport: Clicking Background
+[2018.03.27-05.05.06:009][942]Cmd: TRANSACTION UNDO
+[2018.03.27-05.05.06:009][942]LogEditorTransaction: Undo Paste Keys
+[2018.03.27-05.05.11:820][228]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{6ea151bb-02a8-49db-aba4-d15154daa4fe} was removed. Shutting down audio device.
+[2018.03.27-05.05.11:848][228]LogInit: XAudio2 using '1 - ASUS VH242H (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.27-05.05.52:403][929]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Node  Unknown  is not referencing a valid level actor
+[2018.03.27-05.05.52:404][929]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [7085.77] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 8 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.03.27-05.05.53:095][929]LogSavePackage: Save=705.59ms
+[2018.03.27-05.05.53:095][929]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/ThirdPersonExampleMapA340E4D446582AFFEABBE3BEC740701D.tmp' to 'D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.03.27-05.05.53:112][929]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.03.27-05.05.53:178][929]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 4.579
+[2018.03.27-05.05.53:182][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Test1" FILE="D:/Google Drive/Unreal/EDM/Content/Light_Test1.uasset" SILENT=true
+[2018.03.27-05.05.53:351][929]LogSavePackage: Save=138.87ms
+[2018.03.27-05.05.53:351][929]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Light_Test1DF3180354E79BFE0FFC9F3B318284BC4.tmp' to 'D:/Google Drive/Unreal/EDM/Content/Light_Test1.uasset'
+[2018.03.27-05.05.53:363][929]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Content/Light_Test1.uasset
+[2018.03.27-05.05.53:503][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Music/Split_-_Tiesto___Chainsmokers" FILE="D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Music/Split_-_Tiesto___Chainsmokers.uasset" SILENT=true
+[2018.03.27-05.05.54:396][929]LogSavePackage: Save=884.73ms
+[2018.03.27-05.05.54:396][929]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Split_-_Tiesto___Chainsmokers5E2099CA44876363510DCC8A998786C0.tmp' to 'D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Music/Split_-_Tiesto___Chainsmokers.uasset'
+[2018.03.27-05.05.54:410][929]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Music/Split_-_Tiesto___Chainsmokers.uasset
+[2018.03.27-05.05.58:708][929]LogSavePackage: Save=19.01ms
+[2018.03.27-05.05.58:708][929]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Split_-_Tiesto___Chainsmokers_Cu255D0ABA47348A742EA4A0AC1AF69FD3.tmp' to 'D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Music/Split_-_Tiesto___Chainsmokers_Cue.uasset'
+[2018.03.27-05.05.58:722][929]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Content/ThirdPersonBP/Music/Split_-_Tiesto___Chainsmokers_Cue.uasset
+[2018.03.27-05.11.00:161][707]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.00:347][714]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.00:512][720]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.00:667][727]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.00:828][733]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.01:006][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.01:193][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.01:363][754]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.01:542][761]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.01:672][766]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.01:852][773]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.02:002][778]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.02:163][786]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.02:327][794]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.02:490][802]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.02:647][810]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.02:820][819]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.02:980][827]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.03:187][836]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.03:353][845]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.03:530][855]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.03:687][864]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.03:848][873]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.04:047][881]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.04:183][887]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.04:345][894]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.04:517][901]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.04:678][908]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.04:834][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.05:019][922]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.05:163][929]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.05:313][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.05:498][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.05:661][953]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.05:810][960]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.05:978][967]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.06:147][976]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.06:298][984]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.06:522][993]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.06:721][  3]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.06:902][ 12]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.07:078][ 21]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.07:284][ 31]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.07:513][ 43]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.07:725][ 53]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.07:905][ 62]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.08:103][ 72]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.08:299][ 82]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.08:519][ 93]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.08:733][104]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.08:948][115]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.09:145][125]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.09:338][135]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.09:586][148]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.09:764][157]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.09:976][168]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.10:173][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.10:360][187]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.10:566][197]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.10:765][207]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.10:955][217]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.11:142][226]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.11:323][235]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.11:523][245]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.11:702][254]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.11:901][264]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.12:096][274]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.12:279][283]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.12:490][293]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.12:681][303]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.12:851][313]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.13:003][322]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.13:165][331]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.13:318][340]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.13:501][350]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.13:674][360]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.13:834][369]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.13:988][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.14:157][388]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.14:327][398]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.14:488][407]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.14:646][416]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.14:787][424]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.14:960][434]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.15:116][443]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.15:273][452]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.15:453][462]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.15:685][474]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.15:880][484]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.16:073][494]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.16:302][506]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.16:514][517]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.16:707][527]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.16:919][538]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.17:097][547]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.17:307][558]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.17:519][569]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.17:702][578]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.17:995][592]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.18:304][608]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.18:568][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.18:851][635]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.19:058][645]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.19:241][654]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.19:423][663]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.19:611][673]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.19:808][684]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.19:963][693]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.20:143][703]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.20:301][712]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.20:478][722]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.20:640][731]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.20:792][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.20:954][749]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.21:110][758]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.21:262][767]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.21:424][776]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.21:592][786]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.21:746][795]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.21:897][804]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.22:068][814]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.22:225][823]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.22:385][832]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.22:542][841]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.22:698][850]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.22:842][858]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.23:012][868]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.23:154][876]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.23:312][885]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.23:562][898]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.23:755][908]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.30:468][286]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.30:624][294]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.30:784][302]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.30:949][307]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.31:127][314]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.31:267][320]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.31:460][328]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.31:598][334]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.31:768][341]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.31:946][349]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.32:090][355]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.32:245][363]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.32:423][372]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.32:572][376]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.32:784][387]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.32:953][396]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.33:148][406]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.33:332][416]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.33:566][428]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.33:783][439]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.33:982][449]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.34:154][458]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.34:373][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.34:588][480]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.34:797][491]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.35:021][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.35:228][513]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.35:446][524]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.35:640][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.35:815][543]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.36:029][554]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.36:221][564]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.36:433][575]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.36:621][585]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.36:796][594]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.37:017][605]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.37:200][614]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.37:363][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.37:527][630]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.37:693][639]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.37:837][647]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.38:000][656]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.38:162][665]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.38:335][675]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.38:504][684]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.38:667][693]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.38:826][702]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.38:978][710]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.39:142][719]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.39:304][728]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.39:472][737]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.39:637][746]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.39:807][754]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.39:987][761]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.40:176][771]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.40:389][782]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.40:592][792]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.40:786][802]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.40:976][812]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.41:171][822]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.41:339][830]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.41:547][841]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.41:748][851]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.41:939][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.42:116][870]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.42:310][880]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.42:522][891]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.42:714][901]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.42:926][912]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.43:112][922]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.43:296][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.43:482][940]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.43:657][949]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.43:854][959]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.44:084][971]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.44:265][980]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.44:462][990]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.44:626][999]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.44:818][  9]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.45:059][ 21]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.45:248][ 31]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.45:468][ 42]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.45:663][ 52]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.45:863][ 62]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.46:063][ 72]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.46:241][ 81]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.46:442][ 91]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.46:641][101]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.46:799][109]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.47:017][120]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.47:260][132]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.47:462][143]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.47:656][153]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.47:826][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.47:992][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.48:152][182]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.48:293][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.48:484][201]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.11.48:660][210]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.03.27-05.15.48:177][ 28]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.024
+[2018.03.27-05.15.48:179][ 28]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Light_Test1] ([1] browsable assets)...
+[2018.03.27-05.15.48:179][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/Light_Test1]
+[2018.03.27-05.15.48:179][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Test1" FILE="D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.03.27-05.15.48:352][ 28]LogSavePackage: Save=135.82ms
+[2018.03.27-05.15.48:352][ 28]LogSavePackage: Moving 'D:/Google Drive/Unreal/EDM/Saved/Light_Test1_Auto55E50800645CD2559F3E43F99FEE64720.tmp' to 'D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto5.uasset'
+[2018.03.27-05.15.48:358][ 28]LogSavePackage: Display: Finished SavePackage D:/Google Drive/Unreal/EDM/Saved/Autosaves/Game/Light_Test1_Auto5.uasset
+[2018.03.27-05.15.48:358][ 28]LogFileHelpers: Auto-saving content packages took 0.180
+[2018.03.27-05.17.21:335][329]LogWindows: Windows GetLastError: The operation completed successfully. (0)
